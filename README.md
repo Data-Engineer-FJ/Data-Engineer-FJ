@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://github.com/Data-Engineer-FJ.png" width="160"/>
-</p>
-
 <h1 align="center">Fredy Johel Peña Alvarez</h1>
 
 <h3 align="center">Data Engineer | Big Data | Cloud Data Platforms</h3>
