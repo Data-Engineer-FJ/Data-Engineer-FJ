@@ -1,114 +1,104 @@
-<h1 align="center">Fredy Johel Peña Alvarez</h1>
+# 👨‍💻 Sobre mí
 
-<h3 align="center">Data Engineer | Big Data | Cloud Data Platforms</h3>
+Data Engineer especializado en el diseño y desarrollo de **pipelines de datos escalables**, 
+procesamiento distribuido y plataformas modernas de analítica en la nube.
 
-<p align="center">
-Ingeniero de datos especializado en pipelines ETL/ELT, procesamiento distribuido y plataformas analíticas en la nube.
-</p>
+Cuento con más de **6 años de experiencia trabajando con datos**, incluyendo más de **4 años en el sector bancario regulado**, 
+participando en proyectos de ingeniería de datos para reportería financiera, gobierno del dato y plataformas analíticas.
+
+Mi experiencia se centra en el desarrollo de **procesos ETL/ELT, optimización avanzada de consultas SQL y procesamiento masivo de datos** 
+utilizando tecnologías como **Apache Spark, PySpark, Python y SQL**, integradas en arquitecturas **Data Lake / Lakehouse sobre AWS**.
+
+He participado en el diseño e implementación de **pipelines de ingesta y transformación de datos**, 
+modelamiento de datasets analíticos, automatización de procesos batch y validaciones de calidad de datos 
+en entornos empresariales de alta criticidad.
+
+Áreas principales de experiencia:
+
+- Desarrollo de pipelines de datos ETL / ELT
+- Procesamiento distribuido con Apache Spark y PySpark
+- Optimización avanzada de consultas SQL
+- Integración de datos desde múltiples sistemas fuente
+- Implementación de controles de calidad y gobierno del dato
+- Automatización de procesos batch y pipelines de datos
+- Procesamiento y almacenamiento de datasets en plataformas Cloud (AWS)
+
+Interesado en continuar desarrollando soluciones de **ingeniería de datos escalables**, 
+arquitecturas **Lakehouse** y plataformas analíticas modernas en entornos Cloud.
 
 ---
 
-# 🚀 Sobre mí
-
-Data Engineer con experiencia en **entornos bancarios regulados**, participando en el desarrollo de pipelines de datos, procesamiento distribuido y plataformas analíticas en Cloud.
-
-Experiencia en el desarrollo de soluciones de ingeniería de datos utilizando **Apache Spark, SQL avanzado y tecnologías Cloud**, trabajando con grandes volúmenes de información en plataformas analíticas modernas.
-
-Áreas principales:
-
-• Ingeniería de datos
-• Procesamiento distribuido
-• ETL / ELT pipelines
-• Optimización SQL
-• Data Governance
-• Plataformas Big Data
-
----
-
-# 🧰 Stack Tecnológico
+# 🧰 Tecnologías
 
 ## Lenguajes
 
-Python
-SQL
-PL/SQL
-Scala
-Bash
+![Python](https://img.shields.io/badge/Python-Data%20Engineering-blue)
+![SQL](https://img.shields.io/badge/SQL-Analytics-orange)
+![PLSQL](https://img.shields.io/badge/PLSQL-Oracle-red)
+![Scala](https://img.shields.io/badge/Scala-Spark-darkred)
+![Bash](https://img.shields.io/badge/Bash-Linux-black)
 
 ---
 
 ## Big Data
 
-Apache Spark
-PySpark
-Delta Lake
-HDFS
+![Spark](https://img.shields.io/badge/Spark-Big%20Data-red)
+![PySpark](https://img.shields.io/badge/PySpark-Processing-orange)
+![Delta](https://img.shields.io/badge/Delta-Lakehouse-blue)
+![HDFS](https://img.shields.io/badge/HDFS-Distributed%20Storage-green)
 
 ---
 
 ## Cloud
 
-AWS S3
-AWS Glue
-AWS EMR
-AWS Athena
-AWS Redshift
-AWS Lambda
-AWS IAM
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![S3](https://img.shields.io/badge/S3-Storage-yellow)
+![Glue](https://img.shields.io/badge/Glue-ETL-blue)
+![Athena](https://img.shields.io/badge/Athena-Query-green)
+![Redshift](https://img.shields.io/badge/Redshift-Data%20Warehouse-red)
+![Lambda](https://img.shields.io/badge/Lambda-Serverless-orange)
+![EMR](https://img.shields.io/badge/EMR-Spark%20Cluster-blue)
 
 ---
 
 ## Bases de datos
 
-Oracle
-Teradata
-PostgreSQL
-MySQL
-MongoDB
+![Oracle](https://img.shields.io/badge/Oracle-Database-red)
+![Teradata](https://img.shields.io/badge/Teradata-MPP-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
+![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green)
 
 ---
 
-## Data Engineering
+## DevOps & Orquestación
 
-ETL / ELT pipelines
-Data Lake
-Lakehouse Architecture
-Data Warehouse
-Data Modeling
-Data Quality
-Data Governance
-
----
-
-## DevOps / Orquestación
-
-Jenkins
-Control-M
-Git
-Bitbucket
-GitHub
+![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-red)
+![ControlM](https://img.shields.io/badge/Control--M-Orchestration-darkblue)
+![Git](https://img.shields.io/badge/Git-Version%20Control-orange)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-Repository-blue)
+![GitHub](https://img.shields.io/badge/GitHub-Code-black)
 
 ---
 
 ## Sistemas
 
-Linux (Ubuntu)
-Shell scripting
-Automatización batch
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-black)
+![Bash](https://img.shields.io/badge/Bash-Scripting-grey)
 
 ---
 
-# 🏗 Arquitectura típica de procesamiento de datos
+# 🏗 Arquitectura de datos (Lakehouse)
 
 ```
 Data Sources
       │
       ▼
 Ingestion Layer
-(Batch / Streaming)
+(Batch / APIs / Databases)
       │
       ▼
-Raw Data Layer
+Raw Layer
 (Data Lake - S3 / HDFS)
       │
       ▼
@@ -116,7 +106,7 @@ Processing Layer
 (Apache Spark / PySpark)
       │
       ▼
-Curated Data Layer
+Curated Layer
 (Parquet / Delta Lake)
       │
       ▼
@@ -124,65 +114,64 @@ Analytics Layer
 (SQL / Athena / BI Tools)
 ```
 
-Arquitectura común utilizada en **plataformas modernas de Data Engineering**.
+Arquitectura utilizada comúnmente en **plataformas modernas de ingeniería de datos**.
 
 ---
 
-# 📊 Experiencia en proyectos de datos
+# 📊 Experiencia en Ingeniería de Datos
 
-## Ingeniería de datos en entorno bancario
+## Plataforma de datos en entorno bancario
 
-Participación en proyectos de datos dentro del sector financiero, trabajando en:
+Participación en proyectos de ingeniería de datos en el sector financiero:
 
 • desarrollo de pipelines ETL/ELT
 • procesamiento distribuido con Spark
-• integración de datos desde múltiples sistemas fuente
 • validaciones de calidad de datos
-• optimización de consultas SQL
 • automatización de procesos batch
+• integración de datos desde múltiples sistemas fuente
+• optimización de consultas SQL
 
 ---
 
-## Transformación de datos para análisis financiero
+## Procesamiento distribuido con Spark
 
-Implementación de pipelines de transformación de datos para generación de reportes regulatorios y analíticos.
+Desarrollo de pipelines de transformación de datos utilizando:
 
-Tecnologías utilizadas:
-
-Python
+Apache Spark
 PySpark
+Scala
 SQL
-Oracle
-Teradata
 
 ---
 
 ## Integración de datos en plataformas Cloud
 
-Procesamiento y almacenamiento de datasets en arquitecturas cloud utilizando:
+Procesamiento y almacenamiento de datasets en arquitecturas Cloud utilizando:
 
 AWS S3
 AWS Glue
 AWS Redshift
-Athena
+AWS Athena
 
 ---
 
-# 📈 GitHub Stats
+# 📈 Estadísticas GitHub
 
-<p align="center">
+![stats](https://github-readme-stats.vercel.app/api?username=Data-Engineer-FJ\&show_icons=true\&theme=tokyonight)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Data-Engineer-FJ&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Data-Engineer-FJ&layout=compact&theme=tokyonight"/>
-
-</p>
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Data-Engineer-FJ\&layout=compact\&theme=tokyonight)
 
 ---
 
-# 📚 Actualmente aprendiendo
+# 🔥 Actividad
 
-• Optimización avanzada de Apache Spark
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=Data-Engineer-FJ\&theme=tokyonight)
+
+---
+
+# 📚 Técnicas & Interes 
+
+• Optimización de Apache Spark
 • Arquitecturas Lakehouse
 • Ingeniería de datos en AWS
 • Plataformas modernas de datos
@@ -199,4 +188,5 @@ Athena
 
 # ⚡ Filosofía
 
-> La ingeniería de datos transforma grandes volúmenes de información en plataformas confiables para la toma de decisiones.
+Los datos sin procesamiento son solo ruido.
+La ingeniería de datos los convierte en conocimiento.
