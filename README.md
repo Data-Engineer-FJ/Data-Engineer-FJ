@@ -1,116 +1,174 @@
-<h1 align="center">👋 Hola, soy Fredy Johel</h1>
+<p align="center">
+<img src="https://github.com/Data-Engineer-FJ.png" width="160"/>
+</p>
 
-<h3 align="center">Data Engineer | Big Data | Cloud Data Processing</h3>
+<h1 align="center">Fredy Johel Peña Alvarez</h1>
+
+<h3 align="center">Data Engineer | Big Data | Cloud Data Platforms</h3>
 
 <p align="center">
-Apasionado por la ingeniería de datos, el procesamiento distribuido y la construcción de pipelines escalables en entornos cloud.
+Ingeniero de datos especializado en pipelines ETL/ELT, procesamiento distribuido y plataformas analíticas en la nube.
 </p>
 
 ---
 
 # 🚀 Sobre mí
 
-Soy **Data Engineer enfocado en el procesamiento y transformación de datos a gran escala**.
+Data Engineer con experiencia en **entornos bancarios regulados**, participando en el desarrollo de pipelines de datos, procesamiento distribuido y plataformas analíticas en Cloud.
 
-Me interesa construir **pipelines de datos eficientes, reproducibles y escalables** utilizando herramientas modernas de Big Data y Cloud.
+Experiencia en el desarrollo de soluciones de ingeniería de datos utilizando **Apache Spark, SQL avanzado y tecnologías Cloud**, trabajando con grandes volúmenes de información en plataformas analíticas modernas.
 
-Actualmente trabajo fortaleciendo conocimientos en:
+Áreas principales:
 
-- Ingeniería de datos
-- Procesamiento distribuido
-- Plataformas analíticas en la nube
-- Optimización de consultas SQL
-- Automatización de pipelines de datos
-
-Mi enfoque está en **aprender, construir proyectos reales y mejorar continuamente mis habilidades en Data Engineering**.
+• Ingeniería de datos
+• Procesamiento distribuido
+• ETL / ELT pipelines
+• Optimización SQL
+• Data Governance
+• Plataformas Big Data
 
 ---
 
 # 🧰 Stack Tecnológico
 
-<p align="center">
+## Lenguajes
 
-<img src="https://skillicons.dev/icons?i=python,linux,docker,git,terraform,aws"/>
-
-</p>
-
-### Lenguajes
-
-- Python
-- SQL
-- Bash
-
-### Big Data
-
-- Apache Spark
-- PySpark
-- Databricks
-- Delta Lake
-
-### Cloud
-
-- AWS S3
-- AWS Glue
-- AWS Athena
-- AWS Lambda
-- AWS Redshift
-
-### Data Engineering
-
-- ETL / ELT
-- Data Pipelines
-- Data Lakes
-- Data Modeling
-- Data Processing
-
-### Herramientas
-
-- Git
-- Docker
-- Terraform
-- GitHub Actions
+Python
+SQL
+PL/SQL
+Scala
+Bash
 
 ---
 
-Este flujo refleja un **pipeline típico de ingeniería de datos moderno**.
+## Big Data
+
+Apache Spark
+PySpark
+Delta Lake
+HDFS
 
 ---
 
-# 📊 Proyectos de Ingeniería de Datos
+## Cloud
 
-## 🔹 Data Lake con AWS
-
-Pipeline de datos utilizando:
-
-- AWS S3
-- AWS Glue
-- PySpark
-- Athena
-
-Objetivo:
-
-Construir una arquitectura de datos que permita **procesar y consultar grandes volúmenes de datos de forma eficiente**.
+AWS S3
+AWS Glue
+AWS EMR
+AWS Athena
+AWS Redshift
+AWS Lambda
+AWS IAM
 
 ---
 
-## 🔹 Procesamiento de datos con PySpark
+## Bases de datos
 
-Proyecto enfocado en:
-
-- Transformación de datasets grandes
-- Uso de DataFrames
-- Optimización de particiones
-- Procesamiento distribuido
+Oracle
+Teradata
+PostgreSQL
+MySQL
+MongoDB
 
 ---
 
-## 🔹 Análisis de datos con SQL
+## Data Engineering
 
-Desarrollo de consultas analíticas utilizando:
+ETL / ELT pipelines
+Data Lake
+Lakehouse Architecture
+Data Warehouse
+Data Modeling
+Data Quality
+Data Governance
 
-- SQL avanzado
-- Optimización de consultas
-- Modelado analítico
+---
+
+## DevOps / Orquestación
+
+Jenkins
+Control-M
+Git
+Bitbucket
+GitHub
+
+---
+
+## Sistemas
+
+Linux (Ubuntu)
+Shell scripting
+Automatización batch
+
+---
+
+# 🏗 Arquitectura típica de procesamiento de datos
+
+```
+Data Sources
+      │
+      ▼
+Ingestion Layer
+(Batch / Streaming)
+      │
+      ▼
+Raw Data Layer
+(Data Lake - S3 / HDFS)
+      │
+      ▼
+Processing Layer
+(Apache Spark / PySpark)
+      │
+      ▼
+Curated Data Layer
+(Parquet / Delta Lake)
+      │
+      ▼
+Analytics Layer
+(SQL / Athena / BI Tools)
+```
+
+Arquitectura común utilizada en **plataformas modernas de Data Engineering**.
+
+---
+
+# 📊 Experiencia en proyectos de datos
+
+## Ingeniería de datos en entorno bancario
+
+Participación en proyectos de datos dentro del sector financiero, trabajando en:
+
+• desarrollo de pipelines ETL/ELT
+• procesamiento distribuido con Spark
+• integración de datos desde múltiples sistemas fuente
+• validaciones de calidad de datos
+• optimización de consultas SQL
+• automatización de procesos batch
+
+---
+
+## Transformación de datos para análisis financiero
+
+Implementación de pipelines de transformación de datos para generación de reportes regulatorios y analíticos.
+
+Tecnologías utilizadas:
+
+Python
+PySpark
+SQL
+Oracle
+Teradata
+
+---
+
+## Integración de datos en plataformas Cloud
+
+Procesamiento y almacenamiento de datasets en arquitecturas cloud utilizando:
+
+AWS S3
+AWS Glue
+AWS Redshift
+Athena
 
 ---
 
@@ -126,41 +184,23 @@ Desarrollo de consultas analíticas utilizando:
 
 ---
 
-# 🔥 Actividad en GitHub
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Data-Engineer-FJ&theme=tokyonight"/>
-
-</p>
-
----
-
 # 📚 Actualmente aprendiendo
 
-- Optimización de Spark
-- Arquitecturas Data Lake
-- Data Lakehouse
-- Procesamiento distribuido
-- Buenas prácticas en Data Engineering
+• Optimización avanzada de Apache Spark
+• Arquitecturas Lakehouse
+• Ingeniería de datos en AWS
+• Plataformas modernas de datos
 
 ---
 
 # 🌎 Conecta conmigo
 
-📧 Email  
-💼 LinkedIn  
-🌐 Portfolio
+📧 [johelpalvarez@hotmail.com](mailto:johelpalvarez@hotmail.com)
+💼 LinkedIn
+🌐 GitHub
 
 ---
 
 # ⚡ Filosofía
 
-> “Los datos solo tienen valor cuando se transforman en información útil.”
-
----
-
-⭐ Siempre aprendiendo y construyendo soluciones en **Data Engineering, Big Data y Cloud**.
-
-
-# 🏗 Flujo típico de procesamiento de datos
+> La ingeniería de datos transforma grandes volúmenes de información en plataformas confiables para la toma de decisiones.
