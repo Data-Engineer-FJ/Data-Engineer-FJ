@@ -1,14 +1,14 @@
 # 👨‍💻 Sobre mí
 
-Data Analyst especializado en calidad, validación y gobierno del dato en entornos Big Data y Cloud (AWS).
+Data Analyst especializado en calidad, trazabilidad y gobierno de datos en entornos Big Data y Cloud (AWS).
 
-Cuento con más de 5 años de experiencia trabajando con datos, incluyendo más de 4 años en el sector bancario regulado, participando en proyectos de reportería financiera, plataformas analíticas y gobierno del dato.
+Cuento con más de 5 años de experiencia en gestión y análisis de datos, principalmente en el sector bancario regulado, participando en iniciativas de reportería financiera, plataformas analíticas y gobierno de datos.
 
-Mi enfoque principal está en asegurar la integridad, consistencia y trazabilidad de la información a lo largo del ciclo de vida del dato, desde la ingesta hasta su consumo analítico.
+Experiencia en el análisis funcional de datos, definición de reglas de negocio y aseguramiento de la confiabilidad de la información, garantizando consistencia y trazabilidad a lo largo del ciclo de vida del dato.
 
-He trabajado en flujos end-to-end dentro de arquitecturas modernas tipo Data Lake / Lakehouse, colaborando en validación de datos, control de calidad y análisis de resultados en tecnologías como Apache Spark, PySpark y SQL.
+He participado en flujos end-to-end dentro de arquitecturas Data Lake / Lakehouse, validando datos, analizando transformaciones y controlando la calidad de datasets en tecnologías como SQL, Apache Spark y PySpark.
 
-Cuento con conocimientos en ingeniería de datos (ETL/ELT, procesamiento distribuido y cloud), aplicados principalmente en validación, análisis y aseguramiento de calidad más que en desarrollo de pipelines.
+Cuento con conocimientos en ingeniería de datos (ETL/ELT y procesamiento en AWS), enfocados en análisis, validación y control de datos más que en el desarrollo de pipelines.
 
 🔍 Enfoque actual:
 - Data Analysis
@@ -131,9 +131,7 @@ Participación en proyectos de datos enfocados en:
 
 # 📈 Estadísticas GitHub
 
-![stats](https://github-readme-stats.vercel.app/api?username=Data-Engineer-FJ&show_icons=true&theme=tokyonight)
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Data-Engineer-FJ&layout=compact&theme=tokyonight)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Data-Engineer-FJ&theme=tokyonight" />
 
 ---
 
