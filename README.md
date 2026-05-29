@@ -50,11 +50,14 @@ Data Engineer con 3 años de experiencia en el ecosistema Big Data y sector banc
 
 ---
 
-## Herramientas
+### Herramientas de Gestión & DevOps
 ![Git](https://img.shields.io/badge/Git-Version%20Control-orange)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-Repository-blue)
 ![GitHub](https://img.shields.io/badge/GitHub-Code-black)
 ![Jira](https://img.shields.io/badge/Jira-Agile-blue)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-red)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue)
+![Airflow](https://img.shields.io/badge/Airflow-Orchestration-orange)
 
 ---
 
