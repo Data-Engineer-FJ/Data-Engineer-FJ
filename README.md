@@ -64,23 +64,14 @@ Data Engineer con 3 años de experiencia en el ecosistema Big Data y sector banc
 
 ---
 
-# 🏗 Arquitectura de datos (visión funcional)
-Data Sources
-│
-▼
-Ingestion Layer
-│
-▼
-Raw Layer (Data Lake)
-│
-▼
-Processing Layer (Spark / PySpark)
-│
-▼
-Curated Layer
-│
-▼
-Analytics Layer (SQL / BI)
+# 🏗 Arquitectura de Datos (Implementación End-to-End)
+
+graph TD
+    A["☁️ Data Sources"] --> B["🚀 Ingestion Layer"]
+    B --> C["🗄️ Raw Layer - Data Lake"]
+    C --> D["⚙️ Processing Layer - PySpark"]
+    D --> E["🪙 Curated Layer - Gold"]
+    E --> F["📊 Analytics/BI Layer"]
 
 
 📌 Participación enfocada en validación, control de calidad y análisis de datos en diferentes capas.
