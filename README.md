@@ -1,20 +1,12 @@
 # 👨‍💻 Sobre mí
 
-Data Analyst especializado en calidad, trazabilidad y gobierno de datos en entornos Big Data y Cloud (AWS).
-
-Cuento con más de 5 años de experiencia en gestión y análisis de datos, principalmente en el sector bancario regulado, participando en iniciativas de reportería financiera, plataformas analíticas y gobierno de datos.
-
-Experiencia en el análisis funcional de datos, definición de reglas de negocio y aseguramiento de la confiabilidad de la información, garantizando consistencia y trazabilidad a lo largo del ciclo de vida del dato.
-
-He participado en flujos end-to-end dentro de arquitecturas Data Lake / Lakehouse, validando datos, analizando transformaciones y controlando la calidad de datasets en tecnologías como SQL, Apache Spark y PySpark.
-
-Cuento con conocimientos en ingeniería de datos (ETL/ELT y procesamiento en AWS), enfocados en análisis, validación y control de datos más que en el desarrollo de pipelines.
+Data Engineer con 3 años de experiencia en el ecosistema Big Data y sector bancario (BBVA). Especializado en el diseño, ejecución y automatización de pipelines ETL/ELT distribuidos mediante PySpark, SQL avanzado y Python.  Mi trayectoria combina la rigurosidad técnica en la construcción de arquitecturas escalables con una sólida base en Data Quality y gobernanza, garantizando la consistencia, trazabilidad y confiabilidad de la información en entornos AWS.  Experto en flujos de datos end-to-end bajo arquitecturas Lakehouse, con capacidad técnica para optimizar procesos batch y asegurar la integridad de datos en capas críticas. 
 
 🔍 Enfoque actual:
-- Data Analysis
-- Data Quality & Data Governance
-- Validación de datos en entornos Big Data
-- Análisis funcional y reglas de negocio
+- Desarrollo y orquestación de pipelines ETL/ELT.
+- Optimización de procesos Big Data (Spark/PySpark).
+- Arquitecturas Cloud (AWS) y diseño de Data Lakes.
+- Automatización de procesos y scripting en Linux.
 
 ---
 
