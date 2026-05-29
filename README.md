@@ -85,15 +85,22 @@ graph TD
 
 ## 🏦 Sector Bancario (BBVA)
 
-Participación en proyectos de datos enfocados en:
+# 🚀 Experiencia Profesional (Enfoque Híbrido)
 
-- Validación de calidad de datos
-- Definición de reglas de negocio
-- Análisis de datasets para reportería financiera
-- Control de consistencia, duplicidad y trazabilidad
-- Validación de transformaciones en procesos Spark
-- Soporte en flujos ETL/ELT (enfoque analítico)
-- Coordinación entre negocio y equipos técnicos
+## 🏗 Ingeniería de Datos y Soluciones Cloud (AWS)
+Desarrollo y mantenimiento de arquitecturas de datos escalables, con foco en el ciclo de vida completo del pipeline:
+
+- **Orquestación & Procesamiento:** Implementación de procesos ETL/ELT mediante **AWS EMR, Step Functions, AWS Batch y ECS/Fargate**.
+- **Serverless Computing:** Desarrollo de funciones **AWS Lambda** para procesamiento bajo demanda y automatización de eventos.
+- **Troubleshooting:** Resolución de incidencias críticas en entornos productivos, optimizando escalabilidad, gestionando fallos de memoria y ajustando configuraciones de *time-out* en arquitecturas distribuidas.
+
+## 📊 Calidad, Gobierno y Análisis de Datos
+Aseguramiento de la integridad y valor estratégico del dato a través de prácticas de gobernanza:
+
+- **Data Governance:** Implementación de **Diccionarios de Datos** y definición de reglas de negocio para estandarizar la interpretación de la información.
+- **Data Quality:** Validación técnica de transformaciones en **Spark/PySpark**, garantizando trazabilidad, consistencia y eliminación de duplicidad en datasets críticos.
+- **Análisis Funcional:** Soporte end-to-end en reportería financiera, actuando como puente técnico entre requerimientos de negocio y equipos de desarrollo.
+- **Automatización:** Optimización de procesos batch mediante scripting avanzado en Linux y Python, elevando la eficiencia operativa de los flujos de datos.
 
 ---
 
