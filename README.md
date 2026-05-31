@@ -81,9 +81,6 @@ graph TD
 
 ---
 
-# 📊 Experiencia en Datos
-
-## 🏦 Sector Bancario (BBVA)
 
 # 🚀 Experiencia Profesional (Enfoque Híbrido)
 
