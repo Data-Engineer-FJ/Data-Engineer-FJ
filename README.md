@@ -1,6 +1,6 @@
 # 👨‍💻 Sobre mí
 
-Data Engineer con 3 años de experiencia en el ecosistema Big Data y sector bancario (BBVA). Especializado en el diseño, ejecución y automatización de pipelines ETL/ELT distribuidos mediante PySpark, SQL avanzado y Python.  Mi trayectoria combina la rigurosidad técnica en la construcción de arquitecturas escalables con una sólida base en Data Quality y gobernanza, garantizando la consistencia, trazabilidad y confiabilidad de la información en entornos AWS.  Experto en flujos de datos end-to-end bajo arquitecturas Lakehouse, con capacidad técnica para optimizar procesos batch y asegurar la integridad de datos en capas críticas. 
+Data Engineer con 5 años de experiencia en el ecosistema Big Data y sector bancario (BBVA). Especializado en el diseño, ejecución y automatización de pipelines ETL/ELT distribuidos mediante PySpark, SQL avanzado y Python.  Mi trayectoria combina la rigurosidad técnica en la construcción de arquitecturas escalables con una sólida base en Data Quality y gobernanza, garantizando la consistencia, trazabilidad y confiabilidad de la información en entornos AWS.  Experto en flujos de datos end-to-end bajo arquitecturas Lakehouse, con capacidad técnica para optimizar procesos batch y asegurar la integridad de datos en capas críticas. 
 
 🔍 Enfoque actual:
 - Desarrollo y orquestación de pipelines ETL/ELT.
