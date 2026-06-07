@@ -2,7 +2,7 @@
 
 ## Data Cloud Engineer | AWS Data Platform | PySpark | Data Lakehouse
 
-Ingeniero de Datos con más de 6 años de experiencia participando en proyectos estratégicos para el sector bancario (BBVA), especializado en Ingeniería de Datos, procesamiento Big Data, Gobierno del Dato y plataformas analíticas Cloud.
+Data Engineer con más de 6 años de experiencia participando en proyectos estratégicos para el sector bancario (BBVA), especializado en Ingeniería de Datos, procesamiento Big Data, Gobierno del Dato y plataformas analíticas Cloud.
 
 Durante los últimos 2 años he participado en iniciativas Data Cloud sobre AWS, trabajando con servicios como Amazon S3, AWS Glue, Amazon Athena y AWS SageMaker para el procesamiento, almacenamiento y explotación analítica de datos.
 
