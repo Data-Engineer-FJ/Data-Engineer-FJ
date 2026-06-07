@@ -1,48 +1,105 @@
-# 👨‍💻 Sobre mí
+# 👋 Hola, soy Fredy Johel Peña Alvarez
 
-Data Engineer con 5 años de experiencia en el ecosistema Big Data y sector bancario (BBVA). Especializado en el diseño, ejecución y automatización de pipelines ETL/ELT distribuidos mediante PySpark, SQL avanzado y Python.  Mi trayectoria combina la rigurosidad técnica en la construcción de arquitecturas escalables con una sólida base en Data Quality y gobernanza, garantizando la consistencia, trazabilidad y confiabilidad de la información en entornos AWS.  Experto en flujos de datos end-to-end bajo arquitecturas Lakehouse, con capacidad técnica para optimizar procesos batch y asegurar la integridad de datos en capas críticas. 
+## Data Cloud Engineer | AWS Data Platform | PySpark | Data Lakehouse
 
-🔍 Enfoque actual:
-- Desarrollo y orquestación de pipelines ETL/ELT.
-- Optimización de procesos Big Data (Spark/PySpark).
-- Arquitecturas Cloud (AWS) y diseño de Data Lakes.
-- Automatización de procesos y scripting en Linux.
+Ingeniero de Datos con más de 6 años de experiencia participando en proyectos estratégicos para el sector bancario (BBVA), especializado en Ingeniería de Datos, procesamiento Big Data, Gobierno del Dato y plataformas analíticas Cloud.
+
+Durante los últimos 2 años he participado en iniciativas Data Cloud sobre AWS, trabajando con servicios como Amazon S3, AWS Glue, Amazon Athena y AWS SageMaker para el procesamiento, almacenamiento y explotación analítica de datos.
+
+Actualmente me enfoco en la construcción de plataformas modernas de datos, arquitecturas Data Lakehouse y soluciones escalables orientadas a Analytics e Inteligencia Artificial.
+
+---
+
+# 🚀 Enfoque Actual
+
+- Ingeniería de Datos
+- AWS Data Platform
+- Desarrollo con PySpark
+- Arquitecturas Data Lakehouse
+- Data Governance & Data Quality
+- Automatización de Pipelines ETL/ELT
+- Terraform e Infraestructura como Código (IaC)
+- CI/CD para Plataformas de Datos
+
+---
+
+# 🏗 Proyecto Principal
+
+## AWS Modern Data Lakehouse Platform
+
+Diseño e implementación de una plataforma moderna de Ingeniería de Datos basada en Arquitectura Medallion (Bronze, Silver y Gold).
+
+### Arquitectura
+
+```text
+Fuentes de Datos
+        │
+        ▼
+Amazon S3 (Bronze)
+        │
+        ▼
+AWS Glue + PySpark
+        │
+        ▼
+Silver Layer
+        │
+        ▼
+Gold Layer
+        │
+        ▼
+Amazon Athena
+        │
+        ▼
+Amazon QuickSight
+```
+
+### Tecnologías
+
+- Amazon S3
+- AWS Glue
+- AWS Glue Catalog
+- Amazon Athena
+- Amazon QuickSight
+- PySpark
+- Terraform
+- GitHub Actions
+- Great Expectations
 
 ---
 
 # 🧰 Tecnologías
 
-## Lenguajes
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
+## Ingeniería de Datos
+
+![Python](https://img.shields.io/badge/Python-Data%20Engineering-blue)
 ![SQL](https://img.shields.io/badge/SQL-Analytics-orange)
-![PLSQL](https://img.shields.io/badge/PLSQL-Oracle-red)
-![Bash](https://img.shields.io/badge/Bash-Linux-black)
+![PySpark](https://img.shields.io/badge/PySpark-Big%20Data-orange)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-Distributed-red)
 
 ---
 
-## Análisis & Datos
-![Data Quality](https://img.shields.io/badge/Data%20Quality-Validation-green)
-![Data Validation](https://img.shields.io/badge/Data%20Validation-Checks-blue)
-![Data Profiling](https://img.shields.io/badge/Data%20Profiling-Analysis-orange)
+## Cloud AWS
 
----
-
-## Big Data
-![Spark](https://img.shields.io/badge/Spark-Big%20Data-red)
-![PySpark](https://img.shields.io/badge/PySpark-Processing-orange)
-
----
-
-## Cloud
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![S3](https://img.shields.io/badge/S3-Storage-yellow)
-![Glue](https://img.shields.io/badge/Glue-ETL-blue)
-![Athena](https://img.shields.io/badge/Athena-Query-green)
-![Redshift](https://img.shields.io/badge/Redshift-Data%20Warehouse-red)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-Storage-yellow)
+![AWS Glue](https://img.shields.io/badge/AWS%20Glue-ETL-blue)
+![Amazon Athena](https://img.shields.io/badge/Amazon%20Athena-Analytics-green)
+![AWS SageMaker](https://img.shields.io/badge/AWS%20SageMaker-ML-purple)
+![AWS IAM](https://img.shields.io/badge/AWS%20IAM-Security-red)
 
 ---
 
-## Bases de datos
+## Gobierno del Dato
+
+![Data Governance](https://img.shields.io/badge/Data-Governance-blue)
+![Data Quality](https://img.shields.io/badge/Data-Quality-green)
+![Data Catalog](https://img.shields.io/badge/Data-Catalog-orange)
+![Metadata Management](https://img.shields.io/badge/Metadata-Management-yellow)
+
+---
+
+## Bases de Datos
+
 ![Oracle](https://img.shields.io/badge/Oracle-Database-red)
 ![Teradata](https://img.shields.io/badge/Teradata-MPP-blue)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
@@ -50,105 +107,64 @@ Data Engineer con 5 años de experiencia en el ecosistema Big Data y sector banc
 
 ---
 
-### Herramientas de Gestión & DevOps
-![Git](https://img.shields.io/badge/Git-Version%20Control-orange)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-Repository-blue)
-![GitHub](https://img.shields.io/badge/GitHub-Code-black)
-![Jira](https://img.shields.io/badge/Jira-Agile-blue)
-![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-red)
+## DevOps & Automatización
+
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-blue)
 ![Docker](https://img.shields.io/badge/Docker-Containers-blue)
-![Airflow](https://img.shields.io/badge/Airflow-Orchestration-orange)
+![Jenkins](https://img.shields.io/badge/Jenkins-Automation-red)
 
 ---
 
-## Sistemas
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-black)
-![Bash](https://img.shields.io/badge/Bash-Scripting-grey)
+# 📂 Proyectos Destacados
+
+## AWS Modern Data Lakehouse Platform
+
+Plataforma moderna de Ingeniería de Datos desarrollada con:
+
+- AWS Glue
+- Amazon S3
+- Amazon Athena
+- Terraform
+- PySpark
+- Great Expectations
+- GitHub Actions
+
+Estado: 🚧 En desarrollo
 
 ---
 
-# 🏗 Arquitectura de Datos (Implementación End-to-End)
+## Proyectos de Ingeniería de Datos
 
-graph TD
-    A["☁️ Data Sources"] --> B["🚀 Ingestion Layer"]
-    B --> C["🗄️ Raw Layer - Data Lake"]
-    C --> D["⚙️ Processing Layer - PySpark"]
-    D --> E["🪙 Curated Layer - Gold"]
-    E --> F["📊 Analytics/BI Layer"]
-
-
-📌 Participación enfocada en validación, control de calidad y análisis de datos en diferentes capas.
+- Validación de Calidad de Datos
+- Procesamiento Distribuido con PySpark
+- Optimización de Consultas SQL
+- Gobierno del Dato
+- Pipelines ETL/ELT
+- Modelamiento de Datos
 
 ---
 
+# 📊 Estadísticas GitHub
 
-# 🚀 Experiencia Profesional (Enfoque Híbrido)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Data-Engineer-FJ&theme=tokyonight)
 
-## 🏗 Ingeniería de Datos y Soluciones Cloud (AWS)
-Desarrollo y mantenimiento de arquitecturas de datos escalables, con foco en el ciclo de vida completo del pipeline:
-
-- **Orquestación & Procesamiento:** Implementación de procesos ETL/ELT mediante **AWS EMR, Step Functions, AWS Batch y ECS/Fargate**.
-- **Serverless Computing:** Desarrollo de funciones **AWS Lambda** para procesamiento bajo demanda y automatización de eventos.
-- **Troubleshooting:** Resolución de incidencias críticas en entornos productivos, optimizando escalabilidad, gestionando fallos de memoria y ajustando configuraciones de *time-out* en arquitecturas distribuidas.
-
-## 📊 Calidad, Gobierno y Análisis de Datos
-Aseguramiento de la integridad y valor estratégico del dato a través de prácticas de gobernanza:
-
-- **Data Governance:** Implementación de **Diccionarios de Datos** y definición de reglas de negocio para estandarizar la interpretación de la información.
-- **Data Quality:** Validación técnica de transformaciones en **Spark/PySpark**, garantizando trazabilidad, consistencia y eliminación de duplicidad en datasets críticos.
-- **Análisis Funcional:** Soporte end-to-end en reportería financiera, actuando como puente técnico entre requerimientos de negocio y equipos de desarrollo.
-- **Automatización:** Optimización de procesos batch mediante scripting avanzado en Linux y Python, elevando la eficiencia operativa de los flujos de datos.
+![](https://github-readme-streak-stats.herokuapp.com/?user=Data-Engineer-FJ&theme=tokyonight)
 
 ---
 
-## ⚙️ Entornos Big Data
+# 🌎 Conecta Conmigo
 
-- Análisis de datos en plataformas distribuidas
-- Validación de datasets en múltiples capas (RAW / Curated)
-- Identificación de anomalías e inconsistencias
+📧 johelpalvarez@hotmail.com
 
----
+💼 LinkedIn:
+https://www.linkedin.com/in/fredy-johel-pe%C3%B1a-alvarez-37a16925/
 
-# 🚀 Proyectos Destacados (en construcción)
-
-🔹 Data Quality Framework (SQL + Python)  
-🔹 Validación de pipelines en PySpark  
-🔹 Análisis de datasets financieros  
-
-📌 Próximamente más proyectos enfocados en Data Analysis y Data Quality.
+🐙 GitHub:
+https://github.com/Data-Engineer-FJ
 
 ---
 
-# 📈 Estadísticas GitHub
+# ⚡ Filosofía Profesional
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Data-Engineer-FJ&theme=tokyonight" />
-
----
-
-# 🔥 Actividad
-
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=Data-Engineer-FJ&theme=tokyonight)
-
----
-
-# 📚 Técnicas & Intereses 
-
-- Data Quality & Data Governance
-- Análisis de datos en entornos Big Data
-- Arquitecturas Lakehouse
-- Plataformas analíticas en Cloud (AWS)
-
----
-
-# 🌎 Conecta conmigo
-
-📧 [johelpalvarez@hotmail.com](mailto:johelpalvarez@hotmail.com)  
-💼 LinkedIn  
-🌐 GitHub  
-
----
-
-# ⚡ Filosofía
-
-Los datos sin calidad no generan valor.  
-Mi enfoque es convertir datos en información confiable para la toma de decisiones.
+Transformar datos en información confiable mediante plataformas escalables, gobierno del dato y arquitecturas modernas orientadas al negocio.
